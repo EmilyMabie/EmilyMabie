@@ -9,6 +9,7 @@ My name is Emily Mabie, and my pronouns are she/her/hers. I am a professional ed
 
 ### Check out this quick video to learn more about me:
 <video autoplay loop playsinline>
-  https://user-images.githubusercontent.com/77937553/128517338-90ebc785-661e-4ea4-bb48-f2975a774977.mp4
+  src=https://user-images.githubusercontent.com/77937553/128517338-90ebc785-661e-4ea4-bb48-f2975a774977.mp4
 </video>
+
 
