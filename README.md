@@ -1,6 +1,6 @@
 ## Hi there, internet community! 👋
 
-My name is Emily Mabie, and my pronouns are she/her/hers. I am a professional educator, a programming and tech enthusiast, and a second-career seeker!
+My name is Emily Mabie, and my pronouns are she/her/hers. I am an Instructional Designer at Coding Dojo. I'm a professional educator, a programming and tech enthusiast, and self-reinventor! 
 
 - 🔭 I’m currently working on conquering HTML, CSS, JavaScript, and Python.
 - 💬 Ask me about gender inclusive practices, access and equity work, or intersex issues!
