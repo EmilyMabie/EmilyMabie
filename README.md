@@ -29,30 +29,3 @@ https://user-images.githubusercontent.com/77937553/128523616-b0ab5b8c-45fe-4480-
      * ...
      * ...
 </details>
-
-
-  <details>
-  <summary><b><u>Top Level Toggle</u></b></summary>
-
-  <p>
-          Great, Top Layer summary text working fine.
-  </p>
-
-  *   <details>
-      <summary><b>Mid Toggle</b></summary>
-
-      <p>
-          Great, Middle Layer summary text working fine.
-      </p>
-
-      * <details>
-        <summary><b><i>Inner Toggle</i></b></summary>
-
-        <p>
-          Great, Inner Layer summary text working fine.
-        </p>
-
-
-      </details>
-      </details>
-  </details>
