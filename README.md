@@ -18,3 +18,14 @@ Check out this [list of accomplishments](https://github.com/EmilyMabie/WeeklyAcc
 
 https://user-images.githubusercontent.com/77937553/128523616-b0ab5b8c-45fe-4480-93f2-6b6ce3749a00.mp4
 
+
+# My languages, technologies, tools, and frameworks
+<details>
+  <summary>Coming soon!</summary>
+  
+  ## Coming soon!
+  1. ...
+  2. ...
+     * ...
+     * ...
+</details>
