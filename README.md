@@ -19,9 +19,10 @@ Check out this [list of accomplishments](https://github.com/EmilyMabie/WeeklyAcc
 https://user-images.githubusercontent.com/77937553/128523616-b0ab5b8c-45fe-4480-93f2-6b6ce3749a00.mp4
 
 
-# My Toolkit
+
+## My Toolkit
 <details>
-  <summary>Coming soon!</summary>
+  <summary>Here's a brief run-down of tool and tech-specific skills, knowledge, and capabilities I have at my disposal.</summary>
   
   ## Coming soon!
   1. Languages
