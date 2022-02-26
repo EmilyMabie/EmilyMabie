@@ -22,9 +22,9 @@ https://user-images.githubusercontent.com/77937553/128523616-b0ab5b8c-45fe-4480-
 
 ## My Toolkit
 <details>
-  <summary>Here's a brief run-down of tool and tech-specific skills, knowledge, and capabilities I have at my disposal.</summary>
+  <summary>Learn More...</summary>
   
-  ## Coming soon!
+  #### Here's a brief run-down of tool and tech-specific skills, knowledge, and capabilities I have at my disposal.
   1. Languages
      * HTML
      * CSS
