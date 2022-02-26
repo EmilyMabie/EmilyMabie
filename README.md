@@ -26,13 +26,23 @@ https://user-images.githubusercontent.com/77937553/128523616-b0ab5b8c-45fe-4480-
   
   ## Coming soon!
   1. Languages
-     * ...
-     * ...
+     * HTML
+     * CSS
+     * JavaScript
+     * Python
   2. Tools
-     * ...
-     * ...
+     * VS Code
+     * Learning Management Systems (Moodle, etc.)
+     * Google Suite
+     * Microsoft Office Suite
+     * Articulate
+     * Powtoon
+     * Canva
+     * Adobe Suite
   3. Technologies & Frameworks
-     * ...
+     * Django
+     * Bootstrap
+     * SQL
      * ...
   
 </details>
