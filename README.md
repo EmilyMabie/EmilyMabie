@@ -43,6 +43,6 @@ https://user-images.githubusercontent.com/77937553/128523616-b0ab5b8c-45fe-4480-
      * Django
      * Bootstrap
      * SQL
-     * ...
+     * More to come!
   
 </details>
