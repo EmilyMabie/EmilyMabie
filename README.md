@@ -1,7 +1,7 @@
 ## Hi there, internet community! 👋
 
 My name is Emily Mabie, and my pronouns are she/her. 
-I am an Instructional Designer at Coding Dojo. I'm a professional educator, as well as a programming and tech enthusiast! 
+I am an Instructional Designer at [Coding Dojo](https://www.codingdojo.com/meet-the-team). I'm a professional educator, as well as a programming and tech enthusiast! 
 
 - 🔭 I enjoy working on conquering HTML, CSS, JavaScript, and Python.
 - 💬 You can ask me about gender inclusive practices, access and equity work, or intersex issues! I'm also happy to talk to folks who are curious about Instructional Design.
