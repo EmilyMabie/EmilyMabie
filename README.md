@@ -10,7 +10,7 @@ I am an Instructional Designer at [Coding Dojo](https://www.codingdojo.com/meet-
 <br/>
 
 ### Want to see what I've been up to?
-Check out this [list of accomplishments](https://github.com/EmilyMabie/WeeklyAccomplishments) since I've transitioned into my new role as an Instructional Designer for a Coding Bootcamp.
+Check out this [list of accomplishments](https://github.com/EmilyMabie/WeeklyAccomplishments) I've logged since beginning my current role as an Instructional Designer for a Coding Bootcamp.
 
 <br/>
 
