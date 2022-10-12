@@ -5,7 +5,7 @@ I am an Instructional Designer at [Coding Dojo](https://www.codingdojo.com/meet-
 
 - 🔭 I enjoy working on conquering HTML, CSS, JavaScript, and Python.
 - 💬 You can ask me about gender inclusive practices, access and equity work, or intersex issues! I'm also happy to talk to folks who are curious about Instructional Design.
-- 📫 How to reach me: schmertort@gmail.com or via [linkedIn](https://www.linkedin.com/in/emily-mabie-8b761876/).
+- 📫 How to reach me: schmertort@gmail.com or via [linkedIn](https://www.linkedin.com/in/emily-mabie/).
 - ⚡ Fun fact: when there isn't a global pandemic ravaging the earth, I spend evenings and weekends as a swing dancing instructor and DJ!
 <br/>
 
