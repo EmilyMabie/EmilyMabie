@@ -10,7 +10,7 @@ I am a Learning Designer at [Zapier](https://zapier.com/), and a former Instruct
 <br/>
 
 ### Want to see what I've been up to?
-Check out this [list of accomplishments](https://github.com/EmilyMabie/WeeklyAccomplishments) I've logged since beginning my current role as an Instructional Designer for a Coding Bootcamp.
+Check out this [list of accomplishments](https://github.com/EmilyMabie/WeeklyAccomplishments) I've logged since beginning my previous role as an Instructional Designer for a Coding Bootcamp.
 
 <br/>
 
