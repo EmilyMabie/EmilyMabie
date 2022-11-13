@@ -4,7 +4,7 @@ My name is Emily Mabie, and my pronouns are she/her.
 I am a Learning Designer at [Zapier](https://zapier.com/), and a former Instructional Designer at [Coding Dojo](https://www.codingdojo.com/meet-the-team). I'm a professional educator, as well as a programming and tech enthusiast! 
 
 - 🔭 I enjoy working on conquering HTML, CSS, JavaScript, and Python.
-- 💬 You can ask me about gender inclusive practices, accessability and equity work, or intersex issues! I'm also happy to talk to folks who are curious about Learning or Instructional Design.
+- 💬 You can ask me about gender inclusive practices, accessability and equity work, or intersex issues! I'm also happy to talk to folks who are curious about the science of learning/instructional design.
 - 📫 How to reach me: schmertort@gmail.com or via [linkedIn](https://www.linkedin.com/in/emily-mabie/).
 - ⚡ Fun fact: when there isn't a global pandemic ravaging the earth, I spend evenings and weekends as a swing dancing instructor and DJ!
 <br/>
