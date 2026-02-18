@@ -22,7 +22,7 @@ Check out my [running log of accomplishments](https://github.com/EmilyMabie/Week
 
 ### A quick re-introduction:
 
-<video src="https://github.com/EmilyMabie/EmilyMabie/raw/main/Re-Introduction_Video.mp4" controls width="100%"></video>
+
 
 <br/>
 
