@@ -22,10 +22,9 @@ Check out my [running log of accomplishments](https://github.com/EmilyMabie/Week
 
 ### A quick re-introduction:
 
-https://github.com/user-attachments/assets/062e0b37-1fb7-4efc-908a-cac56804902d
-
-
-<br/>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/062e0b37-1fb7-4efc-908a-cac56804902d" controls width="600"></video>
+</p>
 
 ## My Toolkit
 <details>
