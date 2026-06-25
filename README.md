@@ -22,12 +22,10 @@ Check out my [running log of accomplishments](https://github.com/EmilyMabie/Week
 
 ### Try my Zapier templates
 
-I build and publish automation templates for HR teams. Here are a few you can use:
+I build and publish automation templates for HR teams. Here's what I've created:
 
 - **[Automate referral tracking for recruiters](https://zapier.com/templates/details/automate-referral-tracking-for-recruiters)** — Aggregate employee referrals, verify recruiters in your ATS, and post curated Slack threads grouped by recruiter for daily follow-up.
 - **[Run your weekly goals review with AI](https://zapier.com/templates/details/weekly-goals-review-with-ai)** — AI reads your goals, searches Slack and Gmail for evidence of progress, drafts updates, and logs accomplishments — no matter where you track them.
-- **[Slack-based employee referral collection](https://zapier.com/templates/details/slack-employee-referral-collection)** — A complete referral pipeline inside Slack that collects referrals, matches candidates to roles, and delivers daily digests to recruiters.
-- **[Warm intro recruiting](https://zapier.com/templates/details/warm-intro-recruiting)** — Systematically leverage your employees' LinkedIn connections to source high-quality candidates with automated warm introductions.
 
 Explore more [HR automation templates on Zapier](https://zapier.com/templates/human-resources).
 
